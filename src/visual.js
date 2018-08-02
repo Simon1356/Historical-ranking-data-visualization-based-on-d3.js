@@ -71,6 +71,7 @@ function draw(data) {
     var interval_time = config.interval_time;
     var text_y = config.text_y;
     var itemLabel = config.itemLabel;
+    // var unitLabel = config.unitLabel;
     var typeLabel = config.typeLabel;
     // 长度小于display_barInfo的bar将不显示barInfo
     var display_barInfo = config.display_barInfo;
