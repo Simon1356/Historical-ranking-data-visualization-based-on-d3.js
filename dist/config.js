@@ -21,12 +21,12 @@
 
     // 使用自定义的颜色，需要手动填写color.css这个文件。
     // 如果为false，则随机配色。
-    use_custom_color : true,
+    use_custom_color : false,
 
     // 附加信息内容。
     itemLabel : "榜首城市",
     // unitLabel : "单位：km",
-    typeLabel : "所属地区",
+    typeLabel : "Top City",
     // 榜首项目信息的水平位置 。
     item_x : 400,
 
@@ -37,7 +37,7 @@
     text_y : -50,
 
     // 长度小于display_barInfo的bar将不显示barInfo。
-    display_barInfo : 150,
+    display_barInfo : 200,
 
     // 使用类型
     use_type_info : true,
@@ -71,7 +71,7 @@
     dividing_line : 0,
 
     // 设置动画效果，如果为true，则新进入的条目从0开始。
-    enter_from_0: false,
+    enter_from_0: true,
 
     // 如果所有数字都很大，导致拉不开差距则开启此项使得坐标原点变换为（最小值）*2-（最大值）
     big_value: false,
