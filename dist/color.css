@@ -1,17 +1,14 @@
-.京津冀 {
+.华北 {
     fill: #FF0000
 }
-.长三角{
+.华东{
     fill: #0017FF
 }
-.珠三角{
+.华南{
     fill: #0EBEE8
 }
 .西南{
     fill: #99E817
-}
-.港澳台{
-    fill: #D700FF
 }
 .华中{
     fill: #FFBE00
@@ -19,15 +16,10 @@
 .东北{
     fill: #FF7E00
 }
-.山东{
-    fill: #02368A
-}
-.陕西{
+.西北{
     fill: #BA8003
 }
-.安徽{
-    fill: #BA0398
-}
+
 
 #unit {
   position: absolute;

@@ -1,4 +1,4 @@
-const config = {
+﻿const config = {
 
     // 数据源的编码方式。
     // 默认为GBK,按需可修改为UTF-8等。
@@ -6,7 +6,7 @@ const config = {
     encoding:"GBK",
 
     // 每个时间节点最多显示的条目数。
-    max_number : 25,
+    max_number : 30,
 
     // 控制是否显示顶部附加信息文字。
     showMessage : true,
